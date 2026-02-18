@@ -5,7 +5,7 @@ A machine learning-powered web application that predicts house prices based on v
 
 
 
->>>>>>> 26bde38c10342942d19defaf142059ff9ac8cf0a
+
 
 ## 📁 Project Structure
 
