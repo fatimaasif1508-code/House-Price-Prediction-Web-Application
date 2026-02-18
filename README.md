@@ -4,7 +4,7 @@ A machine learning-powered web application that predicts house prices based on v
 
 ## 🌐 Live Demo
 
-The website is deployed and accessible at: **https://fmuufhnxewzk6.ok.kimi.link**
+
 
 ## 📁 Project Structure
 
