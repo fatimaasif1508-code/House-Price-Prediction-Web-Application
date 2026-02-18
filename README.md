@@ -2,11 +2,7 @@
 
 A machine learning-powered web application that predicts house prices based on various features like bedrooms, bathrooms, square footage, location, and more.
 
-<<<<<<< HEAD
-## 🌐 Live Demo
 
-The website is deployed and accessible at: **https://fmuufhnxewzk6.ok.kimi.link**
-=======
 
 
 >>>>>>> 26bde38c10342942d19defaf142059ff9ac8cf0a
