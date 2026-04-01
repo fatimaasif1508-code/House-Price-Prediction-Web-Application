@@ -4,8 +4,8 @@ A machine learning-powered web application that predicts house prices based on v
 
 
 
-
-
+Live Demo: 
+file:///C:/Users/Giga%20Tech/OneDrive/Desktop/Entreprenaurship/house_price_app/index.html
 
 ## 📁 Project Structure
 
